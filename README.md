@@ -3,5 +3,5 @@ This was my attempt at creating this after about a day of tinkering and research
 
 Here's some helpful resources relating to gRPC and Google Cloud in Node.js:
 https://grpc.io/docs/languages/node/
-https://github.com/GoogleCloudPlatform/nodejs-docs-samples/blob/main/endpoints/getting-started-grpc/client.js
+https://github.com/GoogleCloudPlatform/nodejs-docs-samples/blob/main/endpoints/getting-started-grpc/client.js  
 ^^^ This shows how to use an API key instead of an OAuth token, as well.
