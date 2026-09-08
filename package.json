@@ -1,0 +1,12 @@
+{
+  "name": "youtube-grpc-example",
+  "version": "1.0-0",
+  "description": "A code example for using YouTube's LiveChatMessages StreamList using gRPC.",
+  "main": "gRPCYT.js",
+  "author": "tiflu",
+  "type": "module",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.14.4",
+    "@grpc/proto-loader": "^0.8.1"
+  }
+}
